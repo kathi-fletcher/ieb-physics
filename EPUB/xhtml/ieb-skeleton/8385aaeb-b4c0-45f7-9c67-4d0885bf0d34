@@ -46,7 +46,7 @@
 \psline(0.7,-0.4)(0.7,-2)
 \psline(2.8,-0.4)(2.8,-2)
 \psframe(1,-0.4)(2,-0.2)
-            &lt;/code&gt;</pre></div><figcaption></figcaption></figure><p class=""></p><div class="alternates" data-unknown="true"><div class="title" id="b31ceef9-4902-0b07-0f53-35eed4da126a"></div><img draggable="false" src="../physics-11/_plone_ignore_/cache/pspictures/dd900917b9dc2ae75e78f3830752e3ca.png"/><pre class="pspicture">&lt;code&gt;
+            &lt;/code&gt;</pre></div><figcaption></figcaption></figure><p class=""></p><div class="alternates" data-unknown="true"><div class="title"></div><img draggable="false" src="../physics-11/_plone_ignore_/cache/pspictures/dd900917b9dc2ae75e78f3830752e3ca.png"/><pre class="pspicture">&lt;code&gt;
 (-1.5,-2.5)(3.5,1.5)
 \pscircle(-0.5,0.9){0.4}
 \psline(-0.5,0.5)(-0.5,-1)
